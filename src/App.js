@@ -9,7 +9,7 @@ export default function App() {
         <h2>Start editing to see some magic happen!</h2>
         <Jeii />
       </div>
-      <h3 className="heading">hii</h3>
+      <h3 id="heading">hii</h3>
     </>
   );
 }
