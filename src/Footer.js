@@ -6,6 +6,7 @@ export default function Foot() {
       <p>i have removed the above thing </p>
       <p>and added same h3 element below</p>
       <h3>efefefefefwefehth</h3>
+      <h4>hey this is h4</h4>
     </>
   );
 }
