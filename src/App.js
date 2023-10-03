@@ -12,7 +12,6 @@ export default function App() {
         <Foot />
         <Foot_1 />
       </div>
-      <h3 id="heading">hii</h3>
     </>
   );
 }
