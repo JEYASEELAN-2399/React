@@ -7,6 +7,7 @@ export default function Foot() {
       <p>and added same h3 element below</p>
       <h3>efefefefefwefehth</h3>
       <h4>hey this is h4</h4>
+      <p>this is new branch</p>
     </>
   );
 }
